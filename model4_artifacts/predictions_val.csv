@@ -1,0 +1,607 @@
+output_file,source_drone_file,source_noise_file,snr_db,difficulty,folder,split,label_binary,score,pred_default,error_default,pred_selected,error_selected
+drone_clean/val_drone_000448.wav,305413961-drone-fly-flying-camera-buzzin.m4a,,,clean,drone_clean,val,1,0.9968615,1,False,1,False
+drone_clean/val_drone_000449.wav,305413961-drone-fly-flying-camera-buzzin.m4a,,,clean,drone_clean,val,1,0.99167174,1,False,1,False
+drone_clean/val_drone_000450.wav,305413961-drone-fly-flying-camera-buzzin.m4a,,,clean,drone_clean,val,1,0.98232496,1,False,1,False
+drone_clean/val_drone_000451.wav,305413961-drone-fly-flying-camera-buzzin.m4a,,,clean,drone_clean,val,1,0.9979831,1,False,1,False
+drone_clean/val_drone_000452.wav,305413961-drone-fly-flying-camera-buzzin.m4a,,,clean,drone_clean,val,1,0.9804874,1,False,1,False
+drone_clean/val_drone_000453.wav,305413961-drone-fly-flying-camera-buzzin.m4a,,,clean,drone_clean,val,1,0.9927099,1,False,1,False
+drone_clean/val_drone_000454.wav,305413961-drone-fly-flying-camera-buzzin.m4a,,,clean,drone_clean,val,1,0.9942218,1,False,1,False
+drone_clean/val_drone_000455.wav,305413961-drone-fly-flying-camera-buzzin.m4a,,,clean,drone_clean,val,1,0.9847689,1,False,1,False
+drone_clean/val_drone_000456.wav,305413961-drone-fly-flying-camera-buzzin.m4a,,,clean,drone_clean,val,1,0.99503684,1,False,1,False
+drone_clean/val_drone_000457.wav,305413961-drone-fly-flying-camera-buzzin.m4a,,,clean,drone_clean,val,1,0.99113107,1,False,1,False
+drone_clean/val_drone_000458.wav,305413961-drone-fly-flying-camera-buzzin.m4a,,,clean,drone_clean,val,1,0.98657614,1,False,1,False
+drone_clean/val_drone_000459.wav,u_fdacz9w8dw-drone-fly-amp-crash-200744 - segment 3.wav,,,clean,drone_clean,val,1,0.9648073,1,False,1,False
+drone_clean/val_drone_000460.wav,u_fdacz9w8dw-drone-fly-amp-crash-200744 - segment 3.wav,,,clean,drone_clean,val,1,0.9870988,1,False,1,False
+drone_clean/val_drone_000461.wav,u_fdacz9w8dw-drone-fly-amp-crash-200744 - segment 3.wav,,,clean,drone_clean,val,1,0.9718437,1,False,1,False
+drone_clean/val_drone_000462.wav,u_fdacz9w8dw-drone-fly-amp-crash-200744 - segment 3.wav,,,clean,drone_clean,val,1,0.75783014,1,False,1,False
+drone_clean/val_drone_000463.wav,u_fdacz9w8dw-drone-fly-amp-crash-200744 - segment 3.wav,,,clean,drone_clean,val,1,0.9732487,1,False,1,False
+drone_clean/val_drone_000464.wav,u_fdacz9w8dw-drone-fly-amp-crash-200744 - segment 3.wav,,,clean,drone_clean,val,1,0.95014113,1,False,1,False
+drone_clean/val_drone_000465.wav,u_fdacz9w8dw-drone-fly-amp-crash-200744 - segment 3.wav,,,clean,drone_clean,val,1,0.9409228,1,False,1,False
+drone_clean/val_drone_000466.wav,u_fdacz9w8dw-drone-fly-amp-crash-200744 - segment 3.wav,,,clean,drone_clean,val,1,0.9664605,1,False,1,False
+drone_clean/val_drone_000467.wav,u_fdacz9w8dw-drone-fly-amp-crash-200744 - segment 3.wav,,,clean,drone_clean,val,1,0.95871824,1,False,1,False
+drone_clean/val_drone_000468.wav,u_fdacz9w8dw-drone-fly-amp-crash-200744 - segment 3.wav,,,clean,drone_clean,val,1,0.95420474,1,False,1,False
+drone_clean/val_drone_000469.wav,u_fdacz9w8dw-drone-fly-amp-crash-200744 - segment 3.wav,,,clean,drone_clean,val,1,0.9816593,1,False,1,False
+drone_clean/val_drone_000470.wav,u_fdacz9w8dw-drone-fly-amp-crash-200744 - segment 3.wav,,,clean,drone_clean,val,1,0.98467654,1,False,1,False
+drone_clean/val_drone_000471.wav,u_fdacz9w8dw-drone-fly-amp-crash-200744 - segment 3.wav,,,clean,drone_clean,val,1,0.9821138,1,False,1,False
+drone_clean/val_drone_000472.wav,u_fdacz9w8dw-drone-fly-amp-crash-200744 - segment 3.wav,,,clean,drone_clean,val,1,0.98865974,1,False,1,False
+drone_clean/val_drone_000473.wav,u_fdacz9w8dw-drone-fly-amp-crash-200744 - segment 3.wav,,,clean,drone_clean,val,1,0.97657233,1,False,1,False
+drone_clean/val_drone_000474.wav,u_fdacz9w8dw-drone-fly-amp-crash-200744 - segment 3.wav,,,clean,drone_clean,val,1,0.9896982,1,False,1,False
+drone_clean/val_drone_000475.wav,u_fdacz9w8dw-drone-fly-amp-crash-200744 - segment 3.wav,,,clean,drone_clean,val,1,0.98819256,1,False,1,False
+drone_clean/val_drone_000476.wav,u_fdacz9w8dw-drone-fly-amp-crash-200744 - segment 3.wav,,,clean,drone_clean,val,1,0.9778706,1,False,1,False
+drone_clean/val_drone_000477.wav,u_fdacz9w8dw-drone-fly-amp-crash-200744 - segment 3.wav,,,clean,drone_clean,val,1,0.99470776,1,False,1,False
+drone_clean/val_drone_000478.wav,u_fdacz9w8dw-drone-fly-amp-crash-200744 - segment 3.wav,,,clean,drone_clean,val,1,0.98212874,1,False,1,False
+drone_clean/val_drone_000479.wav,u_fdacz9w8dw-drone-fly-amp-crash-200744 - segment 3.wav,,,clean,drone_clean,val,1,0.89595866,1,False,1,False
+drone_clean/val_drone_000480.wav,u_fdacz9w8dw-drone-fly-amp-crash-200744 - segment 3.wav,,,clean,drone_clean,val,1,0.9653774,1,False,1,False
+drone_clean/val_drone_000481.wav,u_fdacz9w8dw-drone-fly-amp-crash-200744 - segment 3.wav,,,clean,drone_clean,val,1,0.98674405,1,False,1,False
+drone_clean/val_drone_000482.wav,u_fdacz9w8dw-drone-fly-amp-crash-200744 - segment 3.wav,,,clean,drone_clean,val,1,0.9223227,1,False,1,False
+drone_clean/val_drone_000483.wav,u_fdacz9w8dw-drone-fly-amp-crash-200744 - segment 3.wav,,,clean,drone_clean,val,1,0.9845619,1,False,1,False
+drone_clean/val_drone_000484.wav,u_fdacz9w8dw-drone-fly-amp-crash-200744 - segment 3.wav,,,clean,drone_clean,val,1,0.9916928,1,False,1,False
+drone_clean/val_drone_000485.wav,u_fdacz9w8dw-drone-fly-amp-crash-200744 - segment 3.wav,,,clean,drone_clean,val,1,0.88489574,1,False,1,False
+drone_clean/val_drone_000486.wav,u_fdacz9w8dw-drone-fly-amp-crash-200744 - segment 3.wav,,,clean,drone_clean,val,1,0.98545724,1,False,1,False
+drone_clean/val_drone_000487.wav,u_fdacz9w8dw-drone-fly-amp-crash-200744 - segment 3.wav,,,clean,drone_clean,val,1,0.9878471,1,False,1,False
+drone_clean/val_drone_000488.wav,u_fdacz9w8dw-drone-fly-amp-crash-200744 - segment 3.wav,,,clean,drone_clean,val,1,0.9908504,1,False,1,False
+drone_clean/val_drone_000489.wav,videoplayback-long - segment 1.wav,,,clean,drone_clean,val,1,0.9516492,1,False,1,False
+drone_clean/val_drone_000490.wav,videoplayback-long - segment 1.wav,,,clean,drone_clean,val,1,0.8660579,1,False,1,False
+drone_clean/val_drone_000491.wav,videoplayback-long - segment 1.wav,,,clean,drone_clean,val,1,0.86762226,1,False,1,False
+drone_clean/val_drone_000492.wav,videoplayback-long - segment 1.wav,,,clean,drone_clean,val,1,0.9612566,1,False,1,False
+drone_clean/val_drone_000493.wav,videoplayback-long - segment 1.wav,,,clean,drone_clean,val,1,0.9423015,1,False,1,False
+drone_clean/val_drone_000494.wav,videoplayback-long - segment 1.wav,,,clean,drone_clean,val,1,0.90021455,1,False,1,False
+drone_clean/val_drone_000495.wav,videoplayback-long - segment 1.wav,,,clean,drone_clean,val,1,0.9696443,1,False,1,False
+drone_clean/val_drone_000496.wav,videoplayback-long - segment 1.wav,,,clean,drone_clean,val,1,0.9761303,1,False,1,False
+drone_clean/val_drone_000497.wav,videoplayback-long - segment 1.wav,,,clean,drone_clean,val,1,0.93415976,1,False,1,False
+drone_clean/val_drone_000498.wav,videoplayback-long - segment 1.wav,,,clean,drone_clean,val,1,0.93061346,1,False,1,False
+drone_clean/val_drone_000499.wav,videoplayback-long - segment 1.wav,,,clean,drone_clean,val,1,0.9424553,1,False,1,False
+drone_clean/val_drone_000500.wav,videoplayback-long - segment 1.wav,,,clean,drone_clean,val,1,0.9641611,1,False,1,False
+drone_clean/val_drone_000501.wav,videoplayback-long - segment 1.wav,,,clean,drone_clean,val,1,0.9467327,1,False,1,False
+drone_clean/val_drone_000502.wav,videoplayback-long - segment 1.wav,,,clean,drone_clean,val,1,0.9125624,1,False,1,False
+drone_clean/val_drone_000503.wav,videoplayback-long - segment 1.wav,,,clean,drone_clean,val,1,0.97227055,1,False,1,False
+drone_clean/val_drone_000504.wav,videoplayback-long - segment 1.wav,,,clean,drone_clean,val,1,0.94052327,1,False,1,False
+drone_clean/val_drone_000505.wav,videoplayback-long - segment 1.wav,,,clean,drone_clean,val,1,0.704141,1,False,1,False
+drone_clean/val_drone_000506.wav,videoplayback-long - segment 1.wav,,,clean,drone_clean,val,1,0.89933807,1,False,1,False
+drone_clean/val_drone_000507.wav,videoplayback-long - segment 1.wav,,,clean,drone_clean,val,1,0.9428949,1,False,1,False
+drone_clean/val_drone_000508.wav,videoplayback-long - segment 1.wav,,,clean,drone_clean,val,1,0.8968851,1,False,1,False
+drone_clean/val_drone_000509.wav,videoplayback-long - segment 1.wav,,,clean,drone_clean,val,1,0.96908885,1,False,1,False
+drone_clean/val_drone_000510.wav,videoplayback-long - segment 1.wav,,,clean,drone_clean,val,1,0.9287846,1,False,1,False
+drone_clean/val_drone_000511.wav,videoplayback-long - segment 1.wav,,,clean,drone_clean,val,1,0.93466544,1,False,1,False
+drone_clean/val_drone_000512.wav,videoplayback-long - segment 1.wav,,,clean,drone_clean,val,1,0.9790499,1,False,1,False
+drone_clean/val_drone_000513.wav,videoplayback-long - segment 1.wav,,,clean,drone_clean,val,1,0.9305242,1,False,1,False
+drone_clean/val_drone_000514.wav,videoplayback-long - segment 1.wav,,,clean,drone_clean,val,1,0.94407094,1,False,1,False
+drone_clean/val_drone_000515.wav,videoplayback-long - segment 1.wav,,,clean,drone_clean,val,1,0.97023284,1,False,1,False
+drone_clean/val_drone_000516.wav,videoplayback-long - segment 1.wav,,,clean,drone_clean,val,1,0.935243,1,False,1,False
+drone_clean/val_drone_000517.wav,videoplayback-long - segment 1.wav,,,clean,drone_clean,val,1,0.8462288,1,False,1,False
+drone_clean/val_drone_000518.wav,videoplayback-long - segment 1.wav,,,clean,drone_clean,val,1,0.53707874,1,False,0,True
+drone_clean/val_drone_000519.wav,combined:bebop_000_(67files),,,clean,drone_clean,val,1,0.97204864,1,False,1,False
+drone_clean/val_drone_000520.wav,combined:bebop_000_(67files),,,clean,drone_clean,val,1,0.9697364,1,False,1,False
+drone_clean/val_drone_000521.wav,combined:bebop_000_(67files),,,clean,drone_clean,val,1,0.9690619,1,False,1,False
+drone_clean/val_drone_000522.wav,combined:bebop_000_(67files),,,clean,drone_clean,val,1,0.95011413,1,False,1,False
+drone_clean/val_drone_000523.wav,combined:bebop_000_(67files),,,clean,drone_clean,val,1,0.9902457,1,False,1,False
+drone_clean/val_drone_000524.wav,combined:bebop_000_(67files),,,clean,drone_clean,val,1,0.95428634,1,False,1,False
+drone_clean/val_drone_000525.wav,combined:bebop_000_(67files),,,clean,drone_clean,val,1,0.9300545,1,False,1,False
+drone_clean/val_drone_000526.wav,combined:bebop_000_(67files),,,clean,drone_clean,val,1,0.9651225,1,False,1,False
+drone_clean/val_drone_000527.wav,combined:bebop_000_(67files),,,clean,drone_clean,val,1,0.73380816,1,False,1,False
+drone_clean/val_drone_000528.wav,combined:bebop_000_(67files),,,clean,drone_clean,val,1,0.9529179,1,False,1,False
+drone_clean/val_drone_000529.wav,combined:bebop_000_(67files),,,clean,drone_clean,val,1,0.91610116,1,False,1,False
+drone_clean/val_drone_000530.wav,combined:bebop_000_(67files),,,clean,drone_clean,val,1,0.9623229,1,False,1,False
+drone_clean/val_drone_000531.wav,combined:bebop_000_(67files),,,clean,drone_clean,val,1,0.9840847,1,False,1,False
+drone_clean/val_drone_000532.wav,combined:bebop_000_(67files),,,clean,drone_clean,val,1,0.9456077,1,False,1,False
+drone_clean/val_drone_000533.wav,combined:bebop_000_(67files),,,clean,drone_clean,val,1,0.9605603,1,False,1,False
+drone_clean/val_drone_000534.wav,combined:bebop_000_(67files),,,clean,drone_clean,val,1,0.98429626,1,False,1,False
+drone_clean/val_drone_000535.wav,combined:bebop_000_(67files),,,clean,drone_clean,val,1,0.97643954,1,False,1,False
+drone_clean/val_drone_000536.wav,combined:bebop_000_(67files),,,clean,drone_clean,val,1,0.9760853,1,False,1,False
+drone_clean/val_drone_000537.wav,combined:bebop_000_(67files),,,clean,drone_clean,val,1,0.897632,1,False,1,False
+drone_clean/val_drone_000538.wav,combined:bebop_000_(67files),,,clean,drone_clean,val,1,0.8923688,1,False,1,False
+drone_clean/val_drone_000539.wav,combined:bebop_000_(67files),,,clean,drone_clean,val,1,0.9504169,1,False,1,False
+drone_clean/val_drone_000540.wav,combined:bebop_000_(67files),,,clean,drone_clean,val,1,0.9661593,1,False,1,False
+drone_clean/val_drone_000541.wav,combined:bebop_000_(67files),,,clean,drone_clean,val,1,0.96620816,1,False,1,False
+drone_clean/val_drone_000542.wav,combined:bebop_000_(67files),,,clean,drone_clean,val,1,0.9474977,1,False,1,False
+drone_clean/val_drone_000543.wav,combined:bebop_000_(67files),,,clean,drone_clean,val,1,0.9786471,1,False,1,False
+drone_clean/val_drone_000544.wav,combined:bebop_000_(67files),,,clean,drone_clean,val,1,0.92504156,1,False,1,False
+drone_clean/val_drone_000545.wav,combined:bebop_000_(67files),,,clean,drone_clean,val,1,0.8537765,1,False,1,False
+drone_clean/val_drone_000546.wav,combined:bebop_000_(67files),,,clean,drone_clean,val,1,0.9747591,1,False,1,False
+drone_clean/val_drone_000547.wav,combined:bebop_000_(67files),,,clean,drone_clean,val,1,0.7004422,1,False,1,False
+drone_clean/val_drone_000548.wav,combined:bebop_000_(67files),,,clean,drone_clean,val,1,0.90884435,1,False,1,False
+noise_clean/val_noise_001342.wav,,119449.wav,,clean,noise_clean,val,0,0.022403507,0,False,0,False
+noise_clean/val_noise_001343.wav,,119449.wav,,clean,noise_clean,val,0,0.006394398,0,False,0,False
+noise_clean/val_noise_001344.wav,,119449.wav,,clean,noise_clean,val,0,0.008629067,0,False,0,False
+noise_clean/val_noise_001345.wav,,119449.wav,,clean,noise_clean,val,0,0.01283657,0,False,0,False
+noise_clean/val_noise_001346.wav,,119449.wav,,clean,noise_clean,val,0,0.009667285,0,False,0,False
+noise_clean/val_noise_001347.wav,,119449.wav,,clean,noise_clean,val,0,0.011497437,0,False,0,False
+noise_clean/val_noise_001348.wav,,119449.wav,,clean,noise_clean,val,0,0.011545061,0,False,0,False
+noise_clean/val_noise_001349.wav,,119449.wav,,clean,noise_clean,val,0,0.014227554,0,False,0,False
+noise_clean/val_noise_001350.wav,,119449.wav,,clean,noise_clean,val,0,0.009914064,0,False,0,False
+noise_clean/val_noise_001351.wav,,136458.wav,,clean,noise_clean,val,0,0.16102396,0,False,0,False
+noise_clean/val_noise_001352.wav,,136458.wav,,clean,noise_clean,val,0,0.07075813,0,False,0,False
+noise_clean/val_noise_001353.wav,,136458.wav,,clean,noise_clean,val,0,0.012532084,0,False,0,False
+noise_clean/val_noise_001354.wav,,136458.wav,,clean,noise_clean,val,0,0.027923506,0,False,0,False
+noise_clean/val_noise_001355.wav,,136458.wav,,clean,noise_clean,val,0,0.20276944,0,False,0,False
+noise_clean/val_noise_001356.wav,,136458.wav,,clean,noise_clean,val,0,0.3362109,0,False,0,False
+noise_clean/val_noise_001357.wav,,136458.wav,,clean,noise_clean,val,0,0.042155698,0,False,0,False
+noise_clean/val_noise_001358.wav,,136458.wav,,clean,noise_clean,val,0,0.015775606,0,False,0,False
+noise_clean/val_noise_001359.wav,,154783.wav,,clean,noise_clean,val,0,0.56006205,1,True,0,False
+noise_clean/val_noise_001360.wav,,154783.wav,,clean,noise_clean,val,0,0.30497417,0,False,0,False
+noise_clean/val_noise_001361.wav,,154783.wav,,clean,noise_clean,val,0,0.52762103,1,True,0,False
+noise_clean/val_noise_001362.wav,,154783.wav,,clean,noise_clean,val,0,0.6665087,1,True,1,True
+noise_clean/val_noise_001363.wav,,154783.wav,,clean,noise_clean,val,0,0.2505132,0,False,0,False
+noise_clean/val_noise_001364.wav,,154783.wav,,clean,noise_clean,val,0,0.48580605,0,False,0,False
+noise_clean/val_noise_001365.wav,,154783.wav,,clean,noise_clean,val,0,0.30527693,0,False,0,False
+noise_clean/val_noise_001366.wav,,170670.wav,,clean,noise_clean,val,0,0.10579572,0,False,0,False
+noise_clean/val_noise_001367.wav,,170670.wav,,clean,noise_clean,val,0,0.048666768,0,False,0,False
+noise_clean/val_noise_001368.wav,,170670.wav,,clean,noise_clean,val,0,0.026314802,0,False,0,False
+noise_clean/val_noise_001369.wav,,170670.wav,,clean,noise_clean,val,0,0.0168818,0,False,0,False
+noise_clean/val_noise_001370.wav,,170670.wav,,clean,noise_clean,val,0,0.034933317,0,False,0,False
+noise_clean/val_noise_001371.wav,,170670.wav,,clean,noise_clean,val,0,0.053762186,0,False,0,False
+noise_clean/val_noise_001372.wav,,170670.wav,,clean,noise_clean,val,0,0.10609723,0,False,0,False
+noise_clean/val_noise_001373.wav,,170671.wav,,clean,noise_clean,val,0,0.10222732,0,False,0,False
+noise_clean/val_noise_001374.wav,,170671.wav,,clean,noise_clean,val,0,0.011385265,0,False,0,False
+noise_clean/val_noise_001375.wav,,170671.wav,,clean,noise_clean,val,0,0.002437288,0,False,0,False
+noise_clean/val_noise_001376.wav,,170671.wav,,clean,noise_clean,val,0,0.0117337145,0,False,0,False
+noise_clean/val_noise_001377.wav,,170671.wav,,clean,noise_clean,val,0,0.0126801925,0,False,0,False
+noise_clean/val_noise_001378.wav,,170671.wav,,clean,noise_clean,val,0,0.01509025,0,False,0,False
+noise_clean/val_noise_001379.wav,,179928.wav,,clean,noise_clean,val,0,0.00013492984,0,False,0,False
+noise_clean/val_noise_001380.wav,,179928.wav,,clean,noise_clean,val,0,0.0005310724,0,False,0,False
+noise_clean/val_noise_001381.wav,,179928.wav,,clean,noise_clean,val,0,7.420519e-05,0,False,0,False
+noise_clean/val_noise_001382.wav,,179928.wav,,clean,noise_clean,val,0,0.0015930238,0,False,0,False
+noise_clean/val_noise_001383.wav,,179928.wav,,clean,noise_clean,val,0,0.00022770022,0,False,0,False
+noise_clean/val_noise_001384.wav,,179928.wav,,clean,noise_clean,val,0,0.00071416114,0,False,0,False
+noise_clean/val_noise_001385.wav,,179928.wav,,clean,noise_clean,val,0,0.00047852506,0,False,0,False
+noise_clean/val_noise_001386.wav,,179928.wav,,clean,noise_clean,val,0,3.4761277e-05,0,False,0,False
+noise_clean/val_noise_001387.wav,,179928.wav,,clean,noise_clean,val,0,0.00039005207,0,False,0,False
+noise_clean/val_noise_001388.wav,,181597.wav,,clean,noise_clean,val,0,0.08090415,0,False,0,False
+noise_clean/val_noise_001389.wav,,181597.wav,,clean,noise_clean,val,0,0.083911136,0,False,0,False
+noise_clean/val_noise_001390.wav,,181597.wav,,clean,noise_clean,val,0,0.067765415,0,False,0,False
+noise_clean/val_noise_001391.wav,,181597.wav,,clean,noise_clean,val,0,0.0614703,0,False,0,False
+noise_clean/val_noise_001392.wav,,181597.wav,,clean,noise_clean,val,0,0.102704644,0,False,0,False
+noise_clean/val_noise_001393.wav,,181597.wav,,clean,noise_clean,val,0,0.07136612,0,False,0,False
+noise_clean/val_noise_001394.wav,,181597.wav,,clean,noise_clean,val,0,0.17372695,0,False,0,False
+noise_clean/val_noise_001395.wav,,181597.wav,,clean,noise_clean,val,0,0.04449115,0,False,0,False
+noise_clean/val_noise_001396.wav,,194432.wav,,clean,noise_clean,val,0,0.015530492,0,False,0,False
+noise_clean/val_noise_001397.wav,,194432.wav,,clean,noise_clean,val,0,0.0012430111,0,False,0,False
+noise_clean/val_noise_001398.wav,,194432.wav,,clean,noise_clean,val,0,0.00097555347,0,False,0,False
+noise_clean/val_noise_001399.wav,,194432.wav,,clean,noise_clean,val,0,0.00040480663,0,False,0,False
+noise_clean/val_noise_001400.wav,,194432.wav,,clean,noise_clean,val,0,0.00017550128,0,False,0,False
+noise_clean/val_noise_001401.wav,,194432.wav,,clean,noise_clean,val,0,0.0006366656,0,False,0,False
+noise_clean/val_noise_001402.wav,,194432.wav,,clean,noise_clean,val,0,0.00082132715,0,False,0,False
+noise_clean/val_noise_001403.wav,,194432.wav,,clean,noise_clean,val,0,0.004220214,0,False,0,False
+noise_clean/val_noise_001404.wav,,194432.wav,,clean,noise_clean,val,0,0.005095197,0,False,0,False
+noise_clean/val_noise_001405.wav,,194432.wav,,clean,noise_clean,val,0,0.029559972,0,False,0,False
+noise_clean/val_noise_001406.wav,,194432.wav,,clean,noise_clean,val,0,0.018526332,0,False,0,False
+noise_clean/val_noise_001407.wav,,194432.wav,,clean,noise_clean,val,0,0.012151423,0,False,0,False
+noise_clean/val_noise_001408.wav,,197130.wav,,clean,noise_clean,val,0,0.12553594,0,False,0,False
+noise_clean/val_noise_001409.wav,,197130.wav,,clean,noise_clean,val,0,0.03978683,0,False,0,False
+noise_clean/val_noise_001410.wav,,197130.wav,,clean,noise_clean,val,0,0.017698746,0,False,0,False
+noise_clean/val_noise_001411.wav,,197130.wav,,clean,noise_clean,val,0,0.01032712,0,False,0,False
+noise_clean/val_noise_001412.wav,,197130.wav,,clean,noise_clean,val,0,0.03521609,0,False,0,False
+noise_clean/val_noise_001413.wav,,197130.wav,,clean,noise_clean,val,0,0.038189515,0,False,0,False
+noise_clean/val_noise_001414.wav,,197130.wav,,clean,noise_clean,val,0,0.036407765,0,False,0,False
+noise_clean/val_noise_001415.wav,,197130.wav,,clean,noise_clean,val,0,0.08068017,0,False,0,False
+noise_clean/val_noise_001416.wav,,197130.wav,,clean,noise_clean,val,0,0.037237514,0,False,0,False
+noise_clean/val_noise_001417.wav,,197130.wav,,clean,noise_clean,val,0,0.019060606,0,False,0,False
+noise_clean/val_noise_001418.wav,,197130.wav,,clean,noise_clean,val,0,0.00914455,0,False,0,False
+noise_clean/val_noise_001419.wav,,197130.wav,,clean,noise_clean,val,0,0.022007376,0,False,0,False
+noise_clean/val_noise_001420.wav,,238015.wav,,clean,noise_clean,val,0,0.046824455,0,False,0,False
+noise_clean/val_noise_001421.wav,,238015.wav,,clean,noise_clean,val,0,0.04999821,0,False,0,False
+noise_clean/val_noise_001422.wav,,238015.wav,,clean,noise_clean,val,0,0.047668807,0,False,0,False
+noise_clean/val_noise_001423.wav,,238015.wav,,clean,noise_clean,val,0,0.032714963,0,False,0,False
+noise_clean/val_noise_001424.wav,,238015.wav,,clean,noise_clean,val,0,0.020694457,0,False,0,False
+noise_clean/val_noise_001425.wav,,238015.wav,,clean,noise_clean,val,0,0.042014297,0,False,0,False
+noise_clean/val_noise_001426.wav,,242167.wav,,clean,noise_clean,val,0,0.01129613,0,False,0,False
+noise_clean/val_noise_001427.wav,,242167.wav,,clean,noise_clean,val,0,0.002388534,0,False,0,False
+noise_clean/val_noise_001428.wav,,242167.wav,,clean,noise_clean,val,0,0.09814063,0,False,0,False
+noise_clean/val_noise_001429.wav,,274910.wav,,clean,noise_clean,val,0,0.07814754,0,False,0,False
+noise_clean/val_noise_001430.wav,,274910.wav,,clean,noise_clean,val,0,0.010102569,0,False,0,False
+noise_clean/val_noise_001431.wav,,274910.wav,,clean,noise_clean,val,0,0.011824682,0,False,0,False
+noise_clean/val_noise_001432.wav,,274910.wav,,clean,noise_clean,val,0,0.03470591,0,False,0,False
+noise_clean/val_noise_001433.wav,,274910.wav,,clean,noise_clean,val,0,0.011681301,0,False,0,False
+noise_clean/val_noise_001434.wav,,274910.wav,,clean,noise_clean,val,0,0.13773204,0,False,0,False
+noise_clean/val_noise_001435.wav,,274910.wav,,clean,noise_clean,val,0,0.2797628,0,False,0,False
+noise_clean/val_noise_001436.wav,,274910.wav,,clean,noise_clean,val,0,0.19945681,0,False,0,False
+noise_clean/val_noise_001437.wav,,29544.wav,,clean,noise_clean,val,0,0.09462273,0,False,0,False
+noise_clean/val_noise_001438.wav,,29544.wav,,clean,noise_clean,val,0,0.67359704,1,True,1,True
+noise_clean/val_noise_001439.wav,,29544.wav,,clean,noise_clean,val,0,0.27516073,0,False,0,False
+noise_clean/val_noise_001440.wav,,29544.wav,,clean,noise_clean,val,0,0.35525942,0,False,0,False
+noise_clean/val_noise_001441.wav,,29544.wav,,clean,noise_clean,val,0,0.31323668,0,False,0,False
+noise_clean/val_noise_001442.wav,,29544.wav,,clean,noise_clean,val,0,0.17623897,0,False,0,False
+noise_clean/val_noise_001443.wav,,54187.wav,,clean,noise_clean,val,0,0.12715518,0,False,0,False
+noise_clean/val_noise_001444.wav,,54187.wav,,clean,noise_clean,val,0,0.12105605,0,False,0,False
+noise_clean/val_noise_001445.wav,,54187.wav,,clean,noise_clean,val,0,0.18730657,0,False,0,False
+noise_clean/val_noise_001446.wav,,54187.wav,,clean,noise_clean,val,0,0.26745433,0,False,0,False
+noise_clean/val_noise_001447.wav,,54187.wav,,clean,noise_clean,val,0,0.15257312,0,False,0,False
+noise_clean/val_noise_001448.wav,,54187.wav,,clean,noise_clean,val,0,0.14193183,0,False,0,False
+noise_clean/val_noise_001449.wav,,58368.wav,,clean,noise_clean,val,0,0.012377907,0,False,0,False
+noise_clean/val_noise_001450.wav,,58368.wav,,clean,noise_clean,val,0,0.010152469,0,False,0,False
+noise_clean/val_noise_001451.wav,,58368.wav,,clean,noise_clean,val,0,0.008016876,0,False,0,False
+noise_clean/val_noise_001452.wav,,58368.wav,,clean,noise_clean,val,0,0.010143901,0,False,0,False
+noise_clean/val_noise_001453.wav,,58368.wav,,clean,noise_clean,val,0,0.0046674144,0,False,0,False
+noise_clean/val_noise_001454.wav,,58368.wav,,clean,noise_clean,val,0,0.009966401,0,False,0,False
+noise_clean/val_noise_001455.wav,,58368.wav,,clean,noise_clean,val,0,0.016106797,0,False,0,False
+noise_clean/val_noise_001456.wav,,58368.wav,,clean,noise_clean,val,0,0.005391035,0,False,0,False
+noise_clean/val_noise_001457.wav,,58368.wav,,clean,noise_clean,val,0,0.021464836,0,False,0,False
+noise_clean/val_noise_001458.wav,,70939.wav,,clean,noise_clean,val,0,0.07293574,0,False,0,False
+noise_clean/val_noise_001459.wav,,70939.wav,,clean,noise_clean,val,0,0.07414047,0,False,0,False
+noise_clean/val_noise_001460.wav,,70939.wav,,clean,noise_clean,val,0,0.060863446,0,False,0,False
+noise_clean/val_noise_001461.wav,,70939.wav,,clean,noise_clean,val,0,0.0785778,0,False,0,False
+noise_clean/val_noise_001462.wav,,70939.wav,,clean,noise_clean,val,0,0.108604774,0,False,0,False
+noise_clean/val_noise_001463.wav,,70939.wav,,clean,noise_clean,val,0,0.09175984,0,False,0,False
+noise_clean/val_noise_001464.wav,,70939.wav,,clean,noise_clean,val,0,0.090228096,0,False,0,False
+noise_clean/val_noise_001465.wav,,70939.wav,,clean,noise_clean,val,0,0.09308427,0,False,0,False
+noise_clean/val_noise_001466.wav,,70939.wav,,clean,noise_clean,val,0,0.097816065,0,False,0,False
+noise_clean/val_noise_001467.wav,,70939.wav,,clean,noise_clean,val,0,0.124890685,0,False,0,False
+noise_clean/val_noise_001468.wav,,70939.wav,,clean,noise_clean,val,0,0.08510355,0,False,0,False
+noise_clean/val_noise_001469.wav,,70939.wav,,clean,noise_clean,val,0,0.065864556,0,False,0,False
+noise_clean/val_noise_001470.wav,,70939.wav,,clean,noise_clean,val,0,0.10253909,0,False,0,False
+noise_clean/val_noise_001471.wav,,94213.wav,,clean,noise_clean,val,0,0.37548897,0,False,0,False
+noise_clean/val_noise_001472.wav,,94213.wav,,clean,noise_clean,val,0,0.28107443,0,False,0,False
+noise_clean/val_noise_001473.wav,,94213.wav,,clean,noise_clean,val,0,0.168146,0,False,0,False
+noise_clean/val_noise_001474.wav,,94213.wav,,clean,noise_clean,val,0,0.23006377,0,False,0,False
+noise_clean/val_noise_001475.wav,,94213.wav,,clean,noise_clean,val,0,0.2208137,0,False,0,False
+noise_clean/val_noise_001476.wav,,94213.wav,,clean,noise_clean,val,0,0.35378075,0,False,0,False
+noise_clean/val_noise_001477.wav,,94213.wav#aug135,,clean,noise_clean,val,0,0.36964107,0,False,0,False
+noise_clean/val_noise_001478.wav,,58368.wav#aug136,,clean,noise_clean,val,0,0.043510366,0,False,0,False
+noise_clean/val_noise_001479.wav,,54187.wav#aug137,,clean,noise_clean,val,0,0.51609534,1,True,0,False
+noise_clean/val_noise_001480.wav,,70939.wav#aug138,,clean,noise_clean,val,0,0.15036924,0,False,0,False
+noise_clean/val_noise_001481.wav,,54187.wav#aug139,,clean,noise_clean,val,0,0.41656524,0,False,0,False
+noise_clean/val_noise_001482.wav,,274910.wav#aug140,,clean,noise_clean,val,0,0.218942,0,False,0,False
+noise_clean/val_noise_001483.wav,,94213.wav#aug141,,clean,noise_clean,val,0,0.18579377,0,False,0,False
+noise_clean/val_noise_001484.wav,,179928.wav#aug142,,clean,noise_clean,val,0,0.00050985004,0,False,0,False
+noise_clean/val_noise_001485.wav,,194432.wav#aug143,,clean,noise_clean,val,0,0.017399624,0,False,0,False
+noise_clean/val_noise_001486.wav,,70939.wav#aug144,,clean,noise_clean,val,0,0.075234495,0,False,0,False
+noise_clean/val_noise_001487.wav,,179928.wav#aug145,,clean,noise_clean,val,0,0.00033299773,0,False,0,False
+noise_clean/val_noise_001488.wav,,179928.wav#aug146,,clean,noise_clean,val,0,0.0005751835,0,False,0,False
+noise_clean/val_noise_001489.wav,,154783.wav#aug147,,clean,noise_clean,val,0,0.79226357,1,True,1,True
+noise_clean/val_noise_001490.wav,,179928.wav#aug148,,clean,noise_clean,val,0,0.0005839293,0,False,0,False
+noise_clean/val_noise_001491.wav,,238015.wav#aug149,,clean,noise_clean,val,0,0.05372003,0,False,0,False
+noise_clean/val_noise_001492.wav,,70939.wav#aug150,,clean,noise_clean,val,0,0.07951713,0,False,0,False
+noise_clean/val_noise_001493.wav,,154783.wav#aug151,,clean,noise_clean,val,0,0.37023953,0,False,0,False
+noise_clean/val_noise_001494.wav,,274910.wav#aug152,,clean,noise_clean,val,0,0.009559498,0,False,0,False
+noise_clean/val_noise_001495.wav,,54187.wav#aug153,,clean,noise_clean,val,0,0.19830565,0,False,0,False
+noise_clean/val_noise_001496.wav,,70939.wav#aug154,,clean,noise_clean,val,0,0.18520302,0,False,0,False
+noise_clean/val_noise_001497.wav,,54187.wav#aug155,,clean,noise_clean,val,0,0.18469973,0,False,0,False
+noise_clean/val_noise_001498.wav,,154783.wav#aug156,,clean,noise_clean,val,0,0.52745163,1,True,0,False
+noise_clean/val_noise_001499.wav,,197130.wav#aug157,,clean,noise_clean,val,0,0.026111271,0,False,0,False
+noise_clean/val_noise_001500.wav,,70939.wav#aug158,,clean,noise_clean,val,0,0.10412741,0,False,0,False
+noise_clean/val_noise_001501.wav,,70939.wav#aug159,,clean,noise_clean,val,0,0.052879024,0,False,0,False
+noise_clean/val_noise_001502.wav,,238015.wav#aug160,,clean,noise_clean,val,0,0.04148282,0,False,0,False
+noise_clean/val_noise_001503.wav,,94213.wav#aug161,,clean,noise_clean,val,0,0.10065458,0,False,0,False
+noise_clean/val_noise_001504.wav,,274910.wav#aug162,,clean,noise_clean,val,0,0.027686227,0,False,0,False
+noise_clean/val_noise_001505.wav,,119449.wav#aug163,,clean,noise_clean,val,0,0.0068674316,0,False,0,False
+noise_clean/val_noise_001506.wav,,70939.wav#aug164,,clean,noise_clean,val,0,0.07637139,0,False,0,False
+noise_clean/val_noise_001507.wav,,154783.wav#aug165,,clean,noise_clean,val,0,0.49456677,0,False,0,False
+noise_clean/val_noise_001508.wav,,181597.wav#aug166,,clean,noise_clean,val,0,0.031194618,0,False,0,False
+noise_clean/val_noise_001509.wav,,170671.wav#aug167,,clean,noise_clean,val,0,0.006569475,0,False,0,False
+noise_clean/val_noise_001510.wav,,29544.wav#aug168,,clean,noise_clean,val,0,0.14206254,0,False,0,False
+noise_clean/val_noise_001511.wav,,119449.wav#aug169,,clean,noise_clean,val,0,0.013438802,0,False,0,False
+noise_clean/val_noise_001512.wav,,242167.wav#aug170,,clean,noise_clean,val,0,0.009779073,0,False,0,False
+noise_clean/val_noise_001513.wav,,70939.wav#aug171,,clean,noise_clean,val,0,0.15356961,0,False,0,False
+noise_clean/val_noise_001514.wav,,54187.wav#aug172,,clean,noise_clean,val,0,0.23000886,0,False,0,False
+noise_clean/val_noise_001515.wav,,179928.wav#aug173,,clean,noise_clean,val,0,0.0005986049,0,False,0,False
+noise_clean/val_noise_001516.wav,,70939.wav#aug174,,clean,noise_clean,val,0,0.07560803,0,False,0,False
+noise_clean/val_noise_001517.wav,,181597.wav#aug175,,clean,noise_clean,val,0,0.028290385,0,False,0,False
+noise_clean/val_noise_001518.wav,,274910.wav#aug176,,clean,noise_clean,val,0,0.018620573,0,False,0,False
+noise_clean/val_noise_001519.wav,,197130.wav#aug177,,clean,noise_clean,val,0,0.01575291,0,False,0,False
+noise_clean/val_noise_001520.wav,,136458.wav#aug178,,clean,noise_clean,val,0,0.17729655,0,False,0,False
+noise_clean/val_noise_001521.wav,,119449.wav#aug179,,clean,noise_clean,val,0,0.012622,0,False,0,False
+noise_clean/val_noise_001522.wav,,170670.wav#aug180,,clean,noise_clean,val,0,0.1054435,0,False,0,False
+noise_clean/val_noise_001523.wav,,70939.wav#aug181,,clean,noise_clean,val,0,0.095086135,0,False,0,False
+noise_clean/val_noise_001524.wav,,70939.wav#aug182,,clean,noise_clean,val,0,0.28734735,0,False,0,False
+noise_clean/val_noise_001525.wav,,194432.wav#aug183,,clean,noise_clean,val,0,0.016248144,0,False,0,False
+noise_clean/val_noise_001526.wav,,94213.wav#aug184,,clean,noise_clean,val,0,0.10379687,0,False,0,False
+noise_clean/val_noise_001527.wav,,119449.wav#aug185,,clean,noise_clean,val,0,0.0083449595,0,False,0,False
+noise_clean/val_noise_001528.wav,,94213.wav#aug186,,clean,noise_clean,val,0,0.1668707,0,False,0,False
+noise_clean/val_noise_001529.wav,,170671.wav#aug187,,clean,noise_clean,val,0,0.052673385,0,False,0,False
+noise_clean/val_noise_001530.wav,,119449.wav#aug188,,clean,noise_clean,val,0,0.016294848,0,False,0,False
+noise_clean/val_noise_001531.wav,,54187.wav#aug189,,clean,noise_clean,val,0,0.14931798,0,False,0,False
+noise_clean/val_noise_001532.wav,,181597.wav#aug190,,clean,noise_clean,val,0,0.08233966,0,False,0,False
+noise_clean/val_noise_001533.wav,,179928.wav#aug191,,clean,noise_clean,val,0,5.0776925e-05,0,False,0,False
+noise_clean/val_noise_001534.wav,,54187.wav#aug192,,clean,noise_clean,val,0,0.2671417,0,False,0,False
+noise_clean/val_noise_001535.wav,,179928.wav#aug193,,clean,noise_clean,val,0,0.0011926311,0,False,0,False
+noise_clean/val_noise_001536.wav,,54187.wav#aug194,,clean,noise_clean,val,0,0.11658206,0,False,0,False
+noise_clean/val_noise_001537.wav,,170670.wav#aug195,,clean,noise_clean,val,0,0.03294195,0,False,0,False
+noise_clean/val_noise_001538.wav,,136458.wav#aug196,,clean,noise_clean,val,0,0.012686714,0,False,0,False
+noise_clean/val_noise_001539.wav,,179928.wav#aug197,,clean,noise_clean,val,0,0.001112664,0,False,0,False
+noise_clean/val_noise_001540.wav,,238015.wav#aug198,,clean,noise_clean,val,0,0.070756294,0,False,0,False
+noise_clean/val_noise_001541.wav,,170670.wav#aug199,,clean,noise_clean,val,0,0.029151006,0,False,0,False
+noise_clean/val_noise_001542.wav,,154783.wav#aug200,,clean,noise_clean,val,0,0.78678393,1,True,1,True
+noise_clean/val_noise_001543.wav,,54187.wav#aug201,,clean,noise_clean,val,0,0.24126521,0,False,0,False
+noise_clean/val_noise_001544.wav,,197130.wav#aug202,,clean,noise_clean,val,0,0.1292824,0,False,0,False
+noise_clean/val_noise_001545.wav,,194432.wav#aug203,,clean,noise_clean,val,0,0.0010449891,0,False,0,False
+noise_clean/val_noise_001546.wav,,170671.wav#aug204,,clean,noise_clean,val,0,0.0129328715,0,False,0,False
+noise_clean/val_noise_001547.wav,,119449.wav#aug205,,clean,noise_clean,val,0,0.0033102818,0,False,0,False
+noise_clean/val_noise_001548.wav,,119449.wav#aug206,,clean,noise_clean,val,0,0.023785543,0,False,0,False
+noise_clean/val_noise_001549.wav,,274910.wav#aug207,,clean,noise_clean,val,0,0.09824305,0,False,0,False
+noise_clean/val_noise_001550.wav,,136458.wav#aug208,,clean,noise_clean,val,0,0.021471063,0,False,0,False
+noise_clean/val_noise_001551.wav,,170671.wav#aug209,,clean,noise_clean,val,0,0.011762603,0,False,0,False
+noise_clean/val_noise_001552.wav,,70939.wav#aug210,,clean,noise_clean,val,0,0.12441824,0,False,0,False
+noise_clean/val_noise_001553.wav,,181597.wav#aug211,,clean,noise_clean,val,0,0.035461936,0,False,0,False
+noise_clean/val_noise_001554.wav,,29544.wav#aug212,,clean,noise_clean,val,0,0.10520105,0,False,0,False
+noise_clean/val_noise_001555.wav,,181597.wav#aug213,,clean,noise_clean,val,0,0.043415442,0,False,0,False
+noise_clean/val_noise_001556.wav,,70939.wav#aug214,,clean,noise_clean,val,0,0.17726453,0,False,0,False
+noise_clean/val_noise_001557.wav,,58368.wav#aug215,,clean,noise_clean,val,0,0.035562854,0,False,0,False
+noise_clean/val_noise_001558.wav,,194432.wav#aug216,,clean,noise_clean,val,0,0.051931366,0,False,0,False
+noise_clean/val_noise_001559.wav,,274910.wav#aug217,,clean,noise_clean,val,0,0.05575063,0,False,0,False
+noise_clean/val_noise_001560.wav,,194432.wav#aug218,,clean,noise_clean,val,0,0.017788667,0,False,0,False
+noise_clean/val_noise_001561.wav,,70939.wav#aug219,,clean,noise_clean,val,0,0.10029836,0,False,0,False
+noise_clean/val_noise_001562.wav,,181597.wav#aug220,,clean,noise_clean,val,0,0.07118442,0,False,0,False
+noise_clean/val_noise_001563.wav,,58368.wav#aug221,,clean,noise_clean,val,0,0.013237375,0,False,0,False
+noise_clean/val_noise_001564.wav,,238015.wav#aug222,,clean,noise_clean,val,0,0.048427064,0,False,0,False
+noise_clean/val_noise_001565.wav,,242167.wav#aug223,,clean,noise_clean,val,0,0.024172153,0,False,0,False
+noise_clean/val_noise_001566.wav,,181597.wav#aug224,,clean,noise_clean,val,0,0.4031637,0,False,0,False
+noise_clean/val_noise_001567.wav,,58368.wav#aug225,,clean,noise_clean,val,0,0.015360191,0,False,0,False
+noise_clean/val_noise_001568.wav,,29544.wav#aug226,,clean,noise_clean,val,0,0.13002647,0,False,0,False
+noise_clean/val_noise_001569.wav,,58368.wav#aug227,,clean,noise_clean,val,0,0.034135103,0,False,0,False
+noise_clean/val_noise_001570.wav,,58368.wav#aug228,,clean,noise_clean,val,0,0.009763461,0,False,0,False
+noise_clean/val_noise_001571.wav,,154783.wav#aug229,,clean,noise_clean,val,0,0.22484118,0,False,0,False
+noise_clean/val_noise_001572.wav,,70939.wav#aug230,,clean,noise_clean,val,0,0.07207844,0,False,0,False
+noise_clean/val_noise_001573.wav,,58368.wav#aug231,,clean,noise_clean,val,0,0.032060195,0,False,0,False
+noise_clean/val_noise_001574.wav,,170671.wav#aug232,,clean,noise_clean,val,0,0.021577135,0,False,0,False
+noise_clean/val_noise_001575.wav,,94213.wav#aug233,,clean,noise_clean,val,0,0.16075894,0,False,0,False
+noise_clean/val_noise_001576.wav,,197130.wav#aug234,,clean,noise_clean,val,0,0.04625457,0,False,0,False
+noise_clean/val_noise_001577.wav,,179928.wav#aug235,,clean,noise_clean,val,0,0.00086937484,0,False,0,False
+noise_clean/val_noise_001578.wav,,170670.wav#aug236,,clean,noise_clean,val,0,0.04442411,0,False,0,False
+noise_clean/val_noise_001579.wav,,181597.wav#aug237,,clean,noise_clean,val,0,0.069813244,0,False,0,False
+noise_clean/val_noise_001580.wav,,119449.wav#aug238,,clean,noise_clean,val,0,0.008222422,0,False,0,False
+noise_clean/val_noise_001581.wav,,274910.wav#aug239,,clean,noise_clean,val,0,0.17028403,0,False,0,False
+noise_clean/val_noise_001582.wav,,29544.wav#aug240,,clean,noise_clean,val,0,0.064422466,0,False,0,False
+noise_clean/val_noise_001583.wav,,274910.wav#aug241,,clean,noise_clean,val,0,0.032831095,0,False,0,False
+noise_clean/val_noise_001584.wav,,197130.wav#aug242,,clean,noise_clean,val,0,0.034420863,0,False,0,False
+noise_clean/val_noise_001585.wav,,181597.wav#aug243,,clean,noise_clean,val,0,0.019048134,0,False,0,False
+noise_clean/val_noise_001586.wav,,29544.wav#aug244,,clean,noise_clean,val,0,0.26212168,0,False,0,False
+noise_clean/val_noise_001587.wav,,70939.wav#aug245,,clean,noise_clean,val,0,0.060641274,0,False,0,False
+noise_clean/val_noise_001588.wav,,136458.wav#aug246,,clean,noise_clean,val,0,0.004171046,0,False,0,False
+noise_clean/val_noise_001589.wav,,181597.wav#aug247,,clean,noise_clean,val,0,0.044967692,0,False,0,False
+noise_clean/val_noise_001590.wav,,94213.wav#aug248,,clean,noise_clean,val,0,0.12204784,0,False,0,False
+noise_clean/val_noise_001591.wav,,70939.wav#aug249,,clean,noise_clean,val,0,0.06739639,0,False,0,False
+noise_clean/val_noise_001592.wav,,94213.wav#aug250,,clean,noise_clean,val,0,0.7757119,1,True,1,True
+noise_clean/val_noise_001593.wav,,170670.wav#aug251,,clean,noise_clean,val,0,0.080077246,0,False,0,False
+noise_clean/val_noise_001594.wav,,194432.wav#aug252,,clean,noise_clean,val,0,0.004950886,0,False,0,False
+noise_clean/val_noise_001595.wav,,154783.wav#aug253,,clean,noise_clean,val,0,0.50948036,1,True,0,False
+noise_clean/val_noise_001596.wav,,70939.wav#aug254,,clean,noise_clean,val,0,0.07777713,0,False,0,False
+noise_clean/val_noise_001597.wav,,197130.wav#aug255,,clean,noise_clean,val,0,0.022704879,0,False,0,False
+noise_clean/val_noise_001598.wav,,170671.wav#aug256,,clean,noise_clean,val,0,0.008290108,0,False,0,False
+noise_clean/val_noise_001599.wav,,136458.wav#aug257,,clean,noise_clean,val,0,0.048647232,0,False,0,False
+noise_clean/val_noise_001600.wav,,29544.wav#aug258,,clean,noise_clean,val,0,0.11581282,0,False,0,False
+noise_clean/val_noise_001601.wav,,58368.wav#aug259,,clean,noise_clean,val,0,0.016635247,0,False,0,False
+noise_clean/val_noise_001602.wav,,70939.wav#aug260,,clean,noise_clean,val,0,0.1386194,0,False,0,False
+noise_clean/val_noise_001603.wav,,94213.wav#aug261,,clean,noise_clean,val,0,0.47899106,0,False,0,False
+noise_clean/val_noise_001604.wav,,58368.wav#aug262,,clean,noise_clean,val,0,0.045350477,0,False,0,False
+noise_clean/val_noise_001605.wav,,54187.wav#aug263,,clean,noise_clean,val,0,0.11564223,0,False,0,False
+noise_clean/val_noise_001606.wav,,58368.wav#aug264,,clean,noise_clean,val,0,0.023929449,0,False,0,False
+noise_clean/val_noise_001607.wav,,94213.wav#aug265,,clean,noise_clean,val,0,0.12882021,0,False,0,False
+noise_clean/val_noise_001608.wav,,194432.wav#aug266,,clean,noise_clean,val,0,0.0179159,0,False,0,False
+noise_clean/val_noise_001609.wav,,54187.wav#aug267,,clean,noise_clean,val,0,0.15516365,0,False,0,False
+noise_clean/val_noise_001610.wav,,58368.wav#aug268,,clean,noise_clean,val,0,0.01489168,0,False,0,False
+noise_clean/val_noise_001611.wav,,136458.wav#aug269,,clean,noise_clean,val,0,0.029507156,0,False,0,False
+noise_clean/val_noise_001612.wav,,274910.wav#aug270,,clean,noise_clean,val,0,0.086245306,0,False,0,False
+noise_clean/val_noise_001613.wav,,179928.wav#aug271,,clean,noise_clean,val,0,0.0008421246,0,False,0,False
+noise_clean/val_noise_001614.wav,,154783.wav#aug272,,clean,noise_clean,val,0,0.5805686,1,True,0,False
+noise_clean/val_noise_001615.wav,,154783.wav#aug273,,clean,noise_clean,val,0,0.60798204,1,True,1,True
+noise_clean/val_noise_001616.wav,,136458.wav#aug274,,clean,noise_clean,val,0,0.08880926,0,False,0,False
+noise_clean/val_noise_001617.wav,,70939.wav#aug275,,clean,noise_clean,val,0,0.17016552,0,False,0,False
+noise_clean/val_noise_001618.wav,,54187.wav#aug276,,clean,noise_clean,val,0,0.25244257,0,False,0,False
+noise_clean/val_noise_001619.wav,,136458.wav#aug277,,clean,noise_clean,val,0,0.112173796,0,False,0,False
+noise_clean/val_noise_001620.wav,,242167.wav#aug278,,clean,noise_clean,val,0,0.024162496,0,False,0,False
+noise_clean/val_noise_001621.wav,,274910.wav#aug279,,clean,noise_clean,val,0,0.019151136,0,False,0,False
+noise_clean/val_noise_001622.wav,,197130.wav#aug280,,clean,noise_clean,val,0,0.02927079,0,False,0,False
+noise_clean/val_noise_001623.wav,,238015.wav#aug281,,clean,noise_clean,val,0,0.08932331,0,False,0,False
+noise_clean/val_noise_001624.wav,,70939.wav#aug282,,clean,noise_clean,val,0,0.16769555,0,False,0,False
+noise_clean/val_noise_001625.wav,,197130.wav#aug283,,clean,noise_clean,val,0,0.03150214,0,False,0,False
+noise_clean/val_noise_001626.wav,,274910.wav#aug284,,clean,noise_clean,val,0,0.022335,0,False,0,False
+noise_clean/val_noise_001627.wav,,197130.wav#aug285,,clean,noise_clean,val,0,0.013271388,0,False,0,False
+noise_clean/val_noise_001628.wav,,181597.wav#aug286,,clean,noise_clean,val,0,0.0125199575,0,False,0,False
+noise_clean/val_noise_001629.wav,,70939.wav#aug287,,clean,noise_clean,val,0,0.098786354,0,False,0,False
+noise_clean/val_noise_001630.wav,,194432.wav#aug288,,clean,noise_clean,val,0,0.0154994065,0,False,0,False
+noise_clean/val_noise_001631.wav,,58368.wav#aug289,,clean,noise_clean,val,0,0.09833149,0,False,0,False
+noise_clean/val_noise_001632.wav,,238015.wav#aug290,,clean,noise_clean,val,0,0.056909952,0,False,0,False
+noise_clean/val_noise_001633.wav,,274910.wav#aug291,,clean,noise_clean,val,0,0.08453136,0,False,0,False
+noise_clean/val_noise_001634.wav,,54187.wav#aug292,,clean,noise_clean,val,0,0.16575475,0,False,0,False
+noise_clean/val_noise_001635.wav,,29544.wav#aug293,,clean,noise_clean,val,0,0.09138063,0,False,0,False
+noise_clean/val_noise_001636.wav,,197130.wav#aug294,,clean,noise_clean,val,0,0.0014264128,0,False,0,False
+noise_clean/val_noise_001637.wav,,238015.wav#aug295,,clean,noise_clean,val,0,0.045862082,0,False,0,False
+noise_clean/val_noise_001638.wav,,197130.wav#aug296,,clean,noise_clean,val,0,0.020688137,0,False,0,False
+noise_clean/val_noise_001639.wav,,179928.wav#aug297,,clean,noise_clean,val,0,0.001274037,0,False,0,False
+noise_clean/val_noise_001640.wav,,29544.wav#aug298,,clean,noise_clean,val,0,0.26550102,0,False,0,False
+noise_clean/val_noise_001641.wav,,70939.wav#aug299,,clean,noise_clean,val,0,0.11000877,0,False,0,False
+noise_clean/val_noise_001642.wav,,29544.wav#aug300,,clean,noise_clean,val,0,0.06560311,0,False,0,False
+noise_clean/val_noise_001643.wav,,54187.wav#aug301,,clean,noise_clean,val,0,0.36539242,0,False,0,False
+noise_clean/val_noise_001644.wav,,58368.wav#aug302,,clean,noise_clean,val,0,0.019768992,0,False,0,False
+easy/val_drone_000448_easy.wav,305413961-drone-fly-flying-camera-buzzin.m4a,170670.wav,14.9,easy,easy,val,1,0.9950438,1,False,1,False
+hard/val_drone_000448_hard.wav,305413961-drone-fly-flying-camera-buzzin.m4a,94213.wav,2.45,hard,hard,val,1,0.9829015,1,False,1,False
+easy/val_drone_000449_easy.wav,305413961-drone-fly-flying-camera-buzzin.m4a,242167.wav,15.66,easy,easy,val,1,0.9941242,1,False,1,False
+hard/val_drone_000449_hard.wav,305413961-drone-fly-flying-camera-buzzin.m4a,94213.wav,6.75,hard,hard,val,1,0.937183,1,False,1,False
+easy/val_drone_000450_easy.wav,305413961-drone-fly-flying-camera-buzzin.m4a,154783.wav,19.64,easy,easy,val,1,0.98928183,1,False,1,False
+hard/val_drone_000450_hard.wav,305413961-drone-fly-flying-camera-buzzin.m4a,181597.wav,3.23,hard,hard,val,1,0.9841845,1,False,1,False
+easy/val_drone_000451_easy.wav,305413961-drone-fly-flying-camera-buzzin.m4a,194432.wav,19.2,easy,easy,val,1,0.9978238,1,False,1,False
+hard/val_drone_000451_hard.wav,305413961-drone-fly-flying-camera-buzzin.m4a,94213.wav,3.47,hard,hard,val,1,0.9721681,1,False,1,False
+easy/val_drone_000452_easy.wav,305413961-drone-fly-flying-camera-buzzin.m4a,136458.wav,17.04,easy,easy,val,1,0.988312,1,False,1,False
+hard/val_drone_000452_hard.wav,305413961-drone-fly-flying-camera-buzzin.m4a,29544.wav,6.81,hard,hard,val,1,0.9762662,1,False,1,False
+easy/val_drone_000453_easy.wav,305413961-drone-fly-flying-camera-buzzin.m4a,194432.wav,12.21,easy,easy,val,1,0.9961069,1,False,1,False
+hard/val_drone_000453_hard.wav,305413961-drone-fly-flying-camera-buzzin.m4a,238015.wav,6.36,hard,hard,val,1,0.99192077,1,False,1,False
+easy/val_drone_000454_easy.wav,305413961-drone-fly-flying-camera-buzzin.m4a,274910.wav,10.59,easy,easy,val,1,0.9950861,1,False,1,False
+hard/val_drone_000454_hard.wav,305413961-drone-fly-flying-camera-buzzin.m4a,181597.wav,2.52,hard,hard,val,1,0.9890239,1,False,1,False
+easy/val_drone_000455_easy.wav,305413961-drone-fly-flying-camera-buzzin.m4a,94213.wav,19.69,easy,easy,val,1,0.9732603,1,False,1,False
+hard/val_drone_000455_hard.wav,305413961-drone-fly-flying-camera-buzzin.m4a,170671.wav,7.57,hard,hard,val,1,0.99116564,1,False,1,False
+easy/val_drone_000456_easy.wav,305413961-drone-fly-flying-camera-buzzin.m4a,58368.wav,17.96,easy,easy,val,1,0.9940048,1,False,1,False
+hard/val_drone_000456_hard.wav,305413961-drone-fly-flying-camera-buzzin.m4a,179928.wav,7.79,hard,hard,val,1,0.99649405,1,False,1,False
+easy/val_drone_000457_easy.wav,305413961-drone-fly-flying-camera-buzzin.m4a,58368.wav,11.62,easy,easy,val,1,0.9957288,1,False,1,False
+hard/val_drone_000457_hard.wav,305413961-drone-fly-flying-camera-buzzin.m4a,179928.wav,7.09,hard,hard,val,1,0.99463296,1,False,1,False
+easy/val_drone_000458_easy.wav,305413961-drone-fly-flying-camera-buzzin.m4a,136458.wav,18.46,easy,easy,val,1,0.9855009,1,False,1,False
+hard/val_drone_000458_hard.wav,305413961-drone-fly-flying-camera-buzzin.m4a,119449.wav,5.03,hard,hard,val,1,0.98686534,1,False,1,False
+easy/val_drone_000459_easy.wav,u_fdacz9w8dw-drone-fly-amp-crash-200744 - segment 3.wav,119449.wav,16.0,easy,easy,val,1,0.97276634,1,False,1,False
+hard/val_drone_000459_hard.wav,u_fdacz9w8dw-drone-fly-amp-crash-200744 - segment 3.wav,94213.wav,2.66,hard,hard,val,1,0.97311836,1,False,1,False
+easy/val_drone_000460_easy.wav,u_fdacz9w8dw-drone-fly-amp-crash-200744 - segment 3.wav,238015.wav,15.79,easy,easy,val,1,0.9878152,1,False,1,False
+hard/val_drone_000460_hard.wav,u_fdacz9w8dw-drone-fly-amp-crash-200744 - segment 3.wav,170671.wav,7.75,hard,hard,val,1,0.9506416,1,False,1,False
+easy/val_drone_000461_easy.wav,u_fdacz9w8dw-drone-fly-amp-crash-200744 - segment 3.wav,170671.wav,13.79,easy,easy,val,1,0.9387589,1,False,1,False
+hard/val_drone_000461_hard.wav,u_fdacz9w8dw-drone-fly-amp-crash-200744 - segment 3.wav,170671.wav,6.28,hard,hard,val,1,0.87571996,1,False,1,False
+easy/val_drone_000462_easy.wav,u_fdacz9w8dw-drone-fly-amp-crash-200744 - segment 3.wav,197130.wav,14.52,easy,easy,val,1,0.8941683,1,False,1,False
+hard/val_drone_000462_hard.wav,u_fdacz9w8dw-drone-fly-amp-crash-200744 - segment 3.wav,194432.wav,6.36,hard,hard,val,1,0.9429678,1,False,1,False
+easy/val_drone_000463_easy.wav,u_fdacz9w8dw-drone-fly-amp-crash-200744 - segment 3.wav,197130.wav,19.19,easy,easy,val,1,0.98313594,1,False,1,False
+hard/val_drone_000463_hard.wav,u_fdacz9w8dw-drone-fly-amp-crash-200744 - segment 3.wav,136458.wav,5.0,hard,hard,val,1,0.968352,1,False,1,False
+easy/val_drone_000464_easy.wav,u_fdacz9w8dw-drone-fly-amp-crash-200744 - segment 3.wav,181597.wav,14.72,easy,easy,val,1,0.93862075,1,False,1,False
+hard/val_drone_000464_hard.wav,u_fdacz9w8dw-drone-fly-amp-crash-200744 - segment 3.wav,197130.wav,2.77,hard,hard,val,1,0.966902,1,False,1,False
+easy/val_drone_000465_easy.wav,u_fdacz9w8dw-drone-fly-amp-crash-200744 - segment 3.wav,70939.wav,12.06,easy,easy,val,1,0.59174085,1,False,1,False
+hard/val_drone_000465_hard.wav,u_fdacz9w8dw-drone-fly-amp-crash-200744 - segment 3.wav,181597.wav,2.31,hard,hard,val,1,0.9713241,1,False,1,False
+easy/val_drone_000466_easy.wav,u_fdacz9w8dw-drone-fly-amp-crash-200744 - segment 3.wav,179928.wav,12.04,easy,easy,val,1,0.972581,1,False,1,False
+hard/val_drone_000466_hard.wav,u_fdacz9w8dw-drone-fly-amp-crash-200744 - segment 3.wav,181597.wav,4.78,hard,hard,val,1,0.97517055,1,False,1,False
+easy/val_drone_000467_easy.wav,u_fdacz9w8dw-drone-fly-amp-crash-200744 - segment 3.wav,197130.wav,17.53,easy,easy,val,1,0.9546221,1,False,1,False
+hard/val_drone_000467_hard.wav,u_fdacz9w8dw-drone-fly-amp-crash-200744 - segment 3.wav,238015.wav,2.77,hard,hard,val,1,0.9850483,1,False,1,False
+easy/val_drone_000468_easy.wav,u_fdacz9w8dw-drone-fly-amp-crash-200744 - segment 3.wav,70939.wav,16.26,easy,easy,val,1,0.9176726,1,False,1,False
+hard/val_drone_000468_hard.wav,u_fdacz9w8dw-drone-fly-amp-crash-200744 - segment 3.wav,94213.wav,6.55,hard,hard,val,1,0.9186982,1,False,1,False
+easy/val_drone_000469_easy.wav,u_fdacz9w8dw-drone-fly-amp-crash-200744 - segment 3.wav,194432.wav,18.14,easy,easy,val,1,0.9459198,1,False,1,False
+hard/val_drone_000469_hard.wav,u_fdacz9w8dw-drone-fly-amp-crash-200744 - segment 3.wav,70939.wav,5.15,hard,hard,val,1,0.20013945,0,True,0,True
+easy/val_drone_000470_easy.wav,u_fdacz9w8dw-drone-fly-amp-crash-200744 - segment 3.wav,154783.wav,12.09,easy,easy,val,1,0.9625831,1,False,1,False
+hard/val_drone_000470_hard.wav,u_fdacz9w8dw-drone-fly-amp-crash-200744 - segment 3.wav,194432.wav,6.55,hard,hard,val,1,0.96144205,1,False,1,False
+easy/val_drone_000471_easy.wav,u_fdacz9w8dw-drone-fly-amp-crash-200744 - segment 3.wav,197130.wav,11.57,easy,easy,val,1,0.9795439,1,False,1,False
+hard/val_drone_000471_hard.wav,u_fdacz9w8dw-drone-fly-amp-crash-200744 - segment 3.wav,136458.wav,6.15,hard,hard,val,1,0.6521111,1,False,1,False
+easy/val_drone_000472_easy.wav,u_fdacz9w8dw-drone-fly-amp-crash-200744 - segment 3.wav,136458.wav,17.83,easy,easy,val,1,0.9961038,1,False,1,False
+hard/val_drone_000472_hard.wav,u_fdacz9w8dw-drone-fly-amp-crash-200744 - segment 3.wav,170671.wav,4.37,hard,hard,val,1,0.92610914,1,False,1,False
+easy/val_drone_000473_easy.wav,u_fdacz9w8dw-drone-fly-amp-crash-200744 - segment 3.wav,154783.wav,14.42,easy,easy,val,1,0.9853671,1,False,1,False
+hard/val_drone_000473_hard.wav,u_fdacz9w8dw-drone-fly-amp-crash-200744 - segment 3.wav,179928.wav,4.33,hard,hard,val,1,0.9897935,1,False,1,False
+easy/val_drone_000474_easy.wav,u_fdacz9w8dw-drone-fly-amp-crash-200744 - segment 3.wav,136458.wav,15.75,easy,easy,val,1,0.99415964,1,False,1,False
+hard/val_drone_000474_hard.wav,u_fdacz9w8dw-drone-fly-amp-crash-200744 - segment 3.wav,29544.wav,6.88,hard,hard,val,1,0.9697973,1,False,1,False
+easy/val_drone_000475_easy.wav,u_fdacz9w8dw-drone-fly-amp-crash-200744 - segment 3.wav,58368.wav,14.69,easy,easy,val,1,0.98570067,1,False,1,False
+hard/val_drone_000475_hard.wav,u_fdacz9w8dw-drone-fly-amp-crash-200744 - segment 3.wav,119449.wav,3.71,hard,hard,val,1,0.9896555,1,False,1,False
+easy/val_drone_000476_easy.wav,u_fdacz9w8dw-drone-fly-amp-crash-200744 - segment 3.wav,70939.wav,17.47,easy,easy,val,1,0.990974,1,False,1,False
+hard/val_drone_000476_hard.wav,u_fdacz9w8dw-drone-fly-amp-crash-200744 - segment 3.wav,29544.wav,6.28,hard,hard,val,1,0.97507757,1,False,1,False
+easy/val_drone_000477_easy.wav,u_fdacz9w8dw-drone-fly-amp-crash-200744 - segment 3.wav,70939.wav,12.67,easy,easy,val,1,0.9470885,1,False,1,False
+hard/val_drone_000477_hard.wav,u_fdacz9w8dw-drone-fly-amp-crash-200744 - segment 3.wav,119449.wav,6.42,hard,hard,val,1,0.9951667,1,False,1,False
+easy/val_drone_000478_easy.wav,u_fdacz9w8dw-drone-fly-amp-crash-200744 - segment 3.wav,238015.wav,16.07,easy,easy,val,1,0.9813203,1,False,1,False
+hard/val_drone_000478_hard.wav,u_fdacz9w8dw-drone-fly-amp-crash-200744 - segment 3.wav,54187.wav,2.27,hard,hard,val,1,0.9927888,1,False,1,False
+easy/val_drone_000479_easy.wav,u_fdacz9w8dw-drone-fly-amp-crash-200744 - segment 3.wav,70939.wav,13.48,easy,easy,val,1,0.08500848,0,True,0,True
+hard/val_drone_000479_hard.wav,u_fdacz9w8dw-drone-fly-amp-crash-200744 - segment 3.wav,274910.wav,6.41,hard,hard,val,1,0.93968475,1,False,1,False
+easy/val_drone_000480_easy.wav,u_fdacz9w8dw-drone-fly-amp-crash-200744 - segment 3.wav,119449.wav,16.59,easy,easy,val,1,0.9570162,1,False,1,False
+hard/val_drone_000480_hard.wav,u_fdacz9w8dw-drone-fly-amp-crash-200744 - segment 3.wav,194432.wav,5.99,hard,hard,val,1,0.96669453,1,False,1,False
+easy/val_drone_000481_easy.wav,u_fdacz9w8dw-drone-fly-amp-crash-200744 - segment 3.wav,179928.wav,10.12,easy,easy,val,1,0.9911017,1,False,1,False
+hard/val_drone_000481_hard.wav,u_fdacz9w8dw-drone-fly-amp-crash-200744 - segment 3.wav,274910.wav,5.52,hard,hard,val,1,0.96941566,1,False,1,False
+easy/val_drone_000482_easy.wav,u_fdacz9w8dw-drone-fly-amp-crash-200744 - segment 3.wav,274910.wav,18.77,easy,easy,val,1,0.85074645,1,False,1,False
+hard/val_drone_000482_hard.wav,u_fdacz9w8dw-drone-fly-amp-crash-200744 - segment 3.wav,70939.wav,2.28,hard,hard,val,1,0.24691425,0,True,0,True
+easy/val_drone_000483_easy.wav,u_fdacz9w8dw-drone-fly-amp-crash-200744 - segment 3.wav,274910.wav,11.48,easy,easy,val,1,0.99299157,1,False,1,False
+hard/val_drone_000483_hard.wav,u_fdacz9w8dw-drone-fly-amp-crash-200744 - segment 3.wav,54187.wav,4.82,hard,hard,val,1,0.9847976,1,False,1,False
+easy/val_drone_000484_easy.wav,u_fdacz9w8dw-drone-fly-amp-crash-200744 - segment 3.wav,242167.wav,13.04,easy,easy,val,1,0.97760737,1,False,1,False
+hard/val_drone_000484_hard.wav,u_fdacz9w8dw-drone-fly-amp-crash-200744 - segment 3.wav,119449.wav,3.32,hard,hard,val,1,0.9911423,1,False,1,False
+easy/val_drone_000485_easy.wav,u_fdacz9w8dw-drone-fly-amp-crash-200744 - segment 3.wav,136458.wav,10.26,easy,easy,val,1,0.84137714,1,False,1,False
+hard/val_drone_000485_hard.wav,u_fdacz9w8dw-drone-fly-amp-crash-200744 - segment 3.wav,119449.wav,7.95,hard,hard,val,1,0.95553035,1,False,1,False
+easy/val_drone_000486_easy.wav,u_fdacz9w8dw-drone-fly-amp-crash-200744 - segment 3.wav,179928.wav,11.72,easy,easy,val,1,0.9849515,1,False,1,False
+hard/val_drone_000486_hard.wav,u_fdacz9w8dw-drone-fly-amp-crash-200744 - segment 3.wav,194432.wav,6.46,hard,hard,val,1,0.9793167,1,False,1,False
+easy/val_drone_000487_easy.wav,u_fdacz9w8dw-drone-fly-amp-crash-200744 - segment 3.wav,170671.wav,15.18,easy,easy,val,1,0.9802586,1,False,1,False
+hard/val_drone_000487_hard.wav,u_fdacz9w8dw-drone-fly-amp-crash-200744 - segment 3.wav,274910.wav,5.36,hard,hard,val,1,0.7589822,1,False,1,False
+easy/val_drone_000488_easy.wav,u_fdacz9w8dw-drone-fly-amp-crash-200744 - segment 3.wav,119449.wav,12.4,easy,easy,val,1,0.9881081,1,False,1,False
+hard/val_drone_000488_hard.wav,u_fdacz9w8dw-drone-fly-amp-crash-200744 - segment 3.wav,136458.wav,4.29,hard,hard,val,1,0.94463724,1,False,1,False
+easy/val_drone_000489_easy.wav,videoplayback-long - segment 1.wav,194432.wav,12.3,easy,easy,val,1,0.97651875,1,False,1,False
+hard/val_drone_000489_hard.wav,videoplayback-long - segment 1.wav,154783.wav,7.67,hard,hard,val,1,0.928792,1,False,1,False
+easy/val_drone_000490_easy.wav,videoplayback-long - segment 1.wav,238015.wav,15.02,easy,easy,val,1,0.8619429,1,False,1,False
+hard/val_drone_000490_hard.wav,videoplayback-long - segment 1.wav,238015.wav,5.19,hard,hard,val,1,0.8468811,1,False,1,False
+easy/val_drone_000491_easy.wav,videoplayback-long - segment 1.wav,70939.wav,16.25,easy,easy,val,1,0.8775987,1,False,1,False
+hard/val_drone_000491_hard.wav,videoplayback-long - segment 1.wav,170670.wav,7.76,hard,hard,val,1,0.9838019,1,False,1,False
+easy/val_drone_000492_easy.wav,videoplayback-long - segment 1.wav,181597.wav,11.78,easy,easy,val,1,0.950379,1,False,1,False
+hard/val_drone_000492_hard.wav,videoplayback-long - segment 1.wav,181597.wav,7.8,hard,hard,val,1,0.9439622,1,False,1,False
+easy/val_drone_000493_easy.wav,videoplayback-long - segment 1.wav,58368.wav,16.93,easy,easy,val,1,0.9688691,1,False,1,False
+hard/val_drone_000493_hard.wav,videoplayback-long - segment 1.wav,194432.wav,4.09,hard,hard,val,1,0.9501733,1,False,1,False
+easy/val_drone_000494_easy.wav,videoplayback-long - segment 1.wav,54187.wav,13.94,easy,easy,val,1,0.9851418,1,False,1,False
+hard/val_drone_000494_hard.wav,videoplayback-long - segment 1.wav,197130.wav,2.96,hard,hard,val,1,0.8942481,1,False,1,False
+easy/val_drone_000495_easy.wav,videoplayback-long - segment 1.wav,58368.wav,12.21,easy,easy,val,1,0.9604521,1,False,1,False
+hard/val_drone_000495_hard.wav,videoplayback-long - segment 1.wav,197130.wav,3.54,hard,hard,val,1,0.9102355,1,False,1,False
+easy/val_drone_000496_easy.wav,videoplayback-long - segment 1.wav,194432.wav,11.25,easy,easy,val,1,0.96199906,1,False,1,False
+hard/val_drone_000496_hard.wav,videoplayback-long - segment 1.wav,179928.wav,3.6,hard,hard,val,1,0.81624854,1,False,1,False
+easy/val_drone_000497_easy.wav,videoplayback-long - segment 1.wav,238015.wav,14.28,easy,easy,val,1,0.92143637,1,False,1,False
+hard/val_drone_000497_hard.wav,videoplayback-long - segment 1.wav,238015.wav,5.5,hard,hard,val,1,0.9262053,1,False,1,False
+easy/val_drone_000498_easy.wav,videoplayback-long - segment 1.wav,181597.wav,10.6,easy,easy,val,1,0.93480945,1,False,1,False
+hard/val_drone_000498_hard.wav,videoplayback-long - segment 1.wav,242167.wav,3.58,hard,hard,val,1,0.8962774,1,False,1,False
+easy/val_drone_000499_easy.wav,videoplayback-long - segment 1.wav,197130.wav,13.86,easy,easy,val,1,0.9397167,1,False,1,False
+hard/val_drone_000499_hard.wav,videoplayback-long - segment 1.wav,274910.wav,4.03,hard,hard,val,1,0.9334078,1,False,1,False
+easy/val_drone_000500_easy.wav,videoplayback-long - segment 1.wav,29544.wav,10.26,easy,easy,val,1,0.9754544,1,False,1,False
+hard/val_drone_000500_hard.wav,videoplayback-long - segment 1.wav,70939.wav,7.94,hard,hard,val,1,0.9951819,1,False,1,False
+easy/val_drone_000501_easy.wav,videoplayback-long - segment 1.wav,242167.wav,13.77,easy,easy,val,1,0.9173513,1,False,1,False
+hard/val_drone_000501_hard.wav,videoplayback-long - segment 1.wav,154783.wav,4.55,hard,hard,val,1,0.9172833,1,False,1,False
+easy/val_drone_000502_easy.wav,videoplayback-long - segment 1.wav,194432.wav,18.5,easy,easy,val,1,0.89660764,1,False,1,False
+hard/val_drone_000502_hard.wav,videoplayback-long - segment 1.wav,70939.wav,4.86,hard,hard,val,1,0.85426867,1,False,1,False
+easy/val_drone_000503_easy.wav,videoplayback-long - segment 1.wav,136458.wav,13.21,easy,easy,val,1,0.9810453,1,False,1,False
+hard/val_drone_000503_hard.wav,videoplayback-long - segment 1.wav,242167.wav,2.82,hard,hard,val,1,0.9570911,1,False,1,False
+easy/val_drone_000504_easy.wav,videoplayback-long - segment 1.wav,181597.wav,14.57,easy,easy,val,1,0.94174594,1,False,1,False
+hard/val_drone_000504_hard.wav,videoplayback-long - segment 1.wav,238015.wav,6.95,hard,hard,val,1,0.93704104,1,False,1,False
+easy/val_drone_000505_easy.wav,videoplayback-long - segment 1.wav,197130.wav,18.86,easy,easy,val,1,0.70783544,1,False,1,False
+hard/val_drone_000505_hard.wav,videoplayback-long - segment 1.wav,181597.wav,2.35,hard,hard,val,1,0.96814877,1,False,1,False
+easy/val_drone_000506_easy.wav,videoplayback-long - segment 1.wav,170670.wav,12.79,easy,easy,val,1,0.98115236,1,False,1,False
+hard/val_drone_000506_hard.wav,videoplayback-long - segment 1.wav,29544.wav,5.34,hard,hard,val,1,0.9407048,1,False,1,False
+easy/val_drone_000507_easy.wav,videoplayback-long - segment 1.wav,70939.wav,11.22,easy,easy,val,1,0.9858739,1,False,1,False
+hard/val_drone_000507_hard.wav,videoplayback-long - segment 1.wav,181597.wav,5.19,hard,hard,val,1,0.9478933,1,False,1,False
+easy/val_drone_000508_easy.wav,videoplayback-long - segment 1.wav,238015.wav,18.56,easy,easy,val,1,0.9170068,1,False,1,False
+hard/val_drone_000508_hard.wav,videoplayback-long - segment 1.wav,70939.wav,7.04,hard,hard,val,1,0.9577824,1,False,1,False
+easy/val_drone_000509_easy.wav,videoplayback-long - segment 1.wav,242167.wav,14.49,easy,easy,val,1,0.9854255,1,False,1,False
+hard/val_drone_000509_hard.wav,videoplayback-long - segment 1.wav,58368.wav,2.78,hard,hard,val,1,0.9545623,1,False,1,False
+easy/val_drone_000510_easy.wav,videoplayback-long - segment 1.wav,179928.wav,12.75,easy,easy,val,1,0.89708465,1,False,1,False
+hard/val_drone_000510_hard.wav,videoplayback-long - segment 1.wav,154783.wav,5.26,hard,hard,val,1,0.86438483,1,False,1,False
+easy/val_drone_000511_easy.wav,videoplayback-long - segment 1.wav,54187.wav,19.77,easy,easy,val,1,0.9455407,1,False,1,False
+hard/val_drone_000511_hard.wav,videoplayback-long - segment 1.wav,154783.wav,3.99,hard,hard,val,1,0.7637075,1,False,1,False
+easy/val_drone_000512_easy.wav,videoplayback-long - segment 1.wav,179928.wav,10.08,easy,easy,val,1,0.9627535,1,False,1,False
+hard/val_drone_000512_hard.wav,videoplayback-long - segment 1.wav,94213.wav,5.16,hard,hard,val,1,0.965646,1,False,1,False
+easy/val_drone_000513_easy.wav,videoplayback-long - segment 1.wav,54187.wav,12.71,easy,easy,val,1,0.95121145,1,False,1,False
+hard/val_drone_000513_hard.wav,videoplayback-long - segment 1.wav,119449.wav,2.49,hard,hard,val,1,0.9189149,1,False,1,False
+easy/val_drone_000514_easy.wav,videoplayback-long - segment 1.wav,181597.wav,12.43,easy,easy,val,1,0.95269656,1,False,1,False
+hard/val_drone_000514_hard.wav,videoplayback-long - segment 1.wav,94213.wav,6.07,hard,hard,val,1,0.96097916,1,False,1,False
+easy/val_drone_000515_easy.wav,videoplayback-long - segment 1.wav,274910.wav,14.76,easy,easy,val,1,0.970731,1,False,1,False
+hard/val_drone_000515_hard.wav,videoplayback-long - segment 1.wav,194432.wav,5.5,hard,hard,val,1,0.9697104,1,False,1,False
+easy/val_drone_000516_easy.wav,videoplayback-long - segment 1.wav,70939.wav,13.85,easy,easy,val,1,0.9831644,1,False,1,False
+hard/val_drone_000516_hard.wav,videoplayback-long - segment 1.wav,58368.wav,6.34,hard,hard,val,1,0.98374766,1,False,1,False
+easy/val_drone_000517_easy.wav,videoplayback-long - segment 1.wav,179928.wav,10.61,easy,easy,val,1,0.8995703,1,False,1,False
+hard/val_drone_000517_hard.wav,videoplayback-long - segment 1.wav,197130.wav,6.32,hard,hard,val,1,0.8513733,1,False,1,False
+easy/val_drone_000518_easy.wav,videoplayback-long - segment 1.wav,29544.wav,13.27,easy,easy,val,1,0.51420736,1,False,0,True
+hard/val_drone_000518_hard.wav,videoplayback-long - segment 1.wav,136458.wav,5.33,hard,hard,val,1,0.48861915,0,True,0,True
+easy/val_drone_000519_easy.wav,combined:bebop_000_(67files),197130.wav,11.58,easy,easy,val,1,0.96448225,1,False,1,False
+hard/val_drone_000519_hard.wav,combined:bebop_000_(67files),194432.wav,4.28,hard,hard,val,1,0.9865323,1,False,1,False
+easy/val_drone_000520_easy.wav,combined:bebop_000_(67files),119449.wav,19.5,easy,easy,val,1,0.976171,1,False,1,False
+hard/val_drone_000520_hard.wav,combined:bebop_000_(67files),274910.wav,3.71,hard,hard,val,1,0.9607122,1,False,1,False
+easy/val_drone_000521_easy.wav,combined:bebop_000_(67files),136458.wav,11.92,easy,easy,val,1,0.9737484,1,False,1,False
+hard/val_drone_000521_hard.wav,combined:bebop_000_(67files),54187.wav,7.81,hard,hard,val,1,0.9515842,1,False,1,False
+easy/val_drone_000522_easy.wav,combined:bebop_000_(67files),181597.wav,10.33,easy,easy,val,1,0.9444981,1,False,1,False
+hard/val_drone_000522_hard.wav,combined:bebop_000_(67files),54187.wav,7.17,hard,hard,val,1,0.97239435,1,False,1,False
+easy/val_drone_000523_easy.wav,combined:bebop_000_(67files),29544.wav,16.18,easy,easy,val,1,0.99122787,1,False,1,False
+hard/val_drone_000523_hard.wav,combined:bebop_000_(67files),136458.wav,2.97,hard,hard,val,1,0.97156936,1,False,1,False
+easy/val_drone_000524_easy.wav,combined:bebop_000_(67files),170671.wav,18.96,easy,easy,val,1,0.9653828,1,False,1,False
+hard/val_drone_000524_hard.wav,combined:bebop_000_(67files),29544.wav,4.04,hard,hard,val,1,0.935861,1,False,1,False
+easy/val_drone_000525_easy.wav,combined:bebop_000_(67files),170671.wav,14.18,easy,easy,val,1,0.975697,1,False,1,False
+hard/val_drone_000525_hard.wav,combined:bebop_000_(67files),238015.wav,4.23,hard,hard,val,1,0.9418736,1,False,1,False
+easy/val_drone_000526_easy.wav,combined:bebop_000_(67files),197130.wav,13.37,easy,easy,val,1,0.9533705,1,False,1,False
+hard/val_drone_000526_hard.wav,combined:bebop_000_(67files),58368.wav,2.67,hard,hard,val,1,0.9942808,1,False,1,False
+easy/val_drone_000527_easy.wav,combined:bebop_000_(67files),179928.wav,13.25,easy,easy,val,1,0.8294742,1,False,1,False
+hard/val_drone_000527_hard.wav,combined:bebop_000_(67files),194432.wav,2.26,hard,hard,val,1,0.9191053,1,False,1,False
+easy/val_drone_000528_easy.wav,combined:bebop_000_(67files),194432.wav,15.67,easy,easy,val,1,0.94620496,1,False,1,False
+hard/val_drone_000528_hard.wav,combined:bebop_000_(67files),179928.wav,5.0,hard,hard,val,1,0.8833043,1,False,1,False
+easy/val_drone_000529_easy.wav,combined:bebop_000_(67files),70939.wav,11.09,easy,easy,val,1,0.8085469,1,False,1,False
+hard/val_drone_000529_hard.wav,combined:bebop_000_(67files),94213.wav,6.81,hard,hard,val,1,0.8566973,1,False,1,False
+easy/val_drone_000530_easy.wav,combined:bebop_000_(67files),29544.wav,12.64,easy,easy,val,1,0.95578474,1,False,1,False
+hard/val_drone_000530_hard.wav,combined:bebop_000_(67files),58368.wav,3.93,hard,hard,val,1,0.97498333,1,False,1,False
+easy/val_drone_000531_easy.wav,combined:bebop_000_(67files),94213.wav,11.24,easy,easy,val,1,0.9821911,1,False,1,False
+hard/val_drone_000531_hard.wav,combined:bebop_000_(67files),58368.wav,7.68,hard,hard,val,1,0.95082647,1,False,1,False
+easy/val_drone_000532_easy.wav,combined:bebop_000_(67files),194432.wav,13.17,easy,easy,val,1,0.92460287,1,False,1,False
+hard/val_drone_000532_hard.wav,combined:bebop_000_(67files),136458.wav,6.85,hard,hard,val,1,0.8941129,1,False,1,False
+easy/val_drone_000533_easy.wav,combined:bebop_000_(67files),58368.wav,16.03,easy,easy,val,1,0.97448856,1,False,1,False
+hard/val_drone_000533_hard.wav,combined:bebop_000_(67files),197130.wav,7.31,hard,hard,val,1,0.94829047,1,False,1,False
+easy/val_drone_000534_easy.wav,combined:bebop_000_(67files),70939.wav,15.95,easy,easy,val,1,0.9576405,1,False,1,False
+hard/val_drone_000534_hard.wav,combined:bebop_000_(67files),238015.wav,5.05,hard,hard,val,1,0.9918161,1,False,1,False
+easy/val_drone_000535_easy.wav,combined:bebop_000_(67files),197130.wav,19.12,easy,easy,val,1,0.9766994,1,False,1,False
+hard/val_drone_000535_hard.wav,combined:bebop_000_(67files),136458.wav,6.34,hard,hard,val,1,0.68167746,1,False,1,False
+easy/val_drone_000536_easy.wav,combined:bebop_000_(67files),94213.wav,17.07,easy,easy,val,1,0.964559,1,False,1,False
+hard/val_drone_000536_hard.wav,combined:bebop_000_(67files),119449.wav,3.62,hard,hard,val,1,0.9548165,1,False,1,False
+easy/val_drone_000537_easy.wav,combined:bebop_000_(67files),170671.wav,15.97,easy,easy,val,1,0.93880826,1,False,1,False
+hard/val_drone_000537_hard.wav,combined:bebop_000_(67files),94213.wav,6.29,hard,hard,val,1,0.9354068,1,False,1,False
+easy/val_drone_000538_easy.wav,combined:bebop_000_(67files),94213.wav,19.67,easy,easy,val,1,0.91606176,1,False,1,False
+hard/val_drone_000538_hard.wav,combined:bebop_000_(67files),181597.wav,4.86,hard,hard,val,1,0.83849156,1,False,1,False
+easy/val_drone_000539_easy.wav,combined:bebop_000_(67files),170671.wav,19.09,easy,easy,val,1,0.9356481,1,False,1,False
+hard/val_drone_000539_hard.wav,combined:bebop_000_(67files),179928.wav,4.38,hard,hard,val,1,0.9267984,1,False,1,False
+easy/val_drone_000540_easy.wav,combined:bebop_000_(67files),274910.wav,11.73,easy,easy,val,1,0.973198,1,False,1,False
+hard/val_drone_000540_hard.wav,combined:bebop_000_(67files),197130.wav,4.17,hard,hard,val,1,0.99213773,1,False,1,False
+easy/val_drone_000541_easy.wav,combined:bebop_000_(67files),29544.wav,10.27,easy,easy,val,1,0.96877,1,False,1,False
+hard/val_drone_000541_hard.wav,combined:bebop_000_(67files),29544.wav,6.23,hard,hard,val,1,0.97800636,1,False,1,False
+easy/val_drone_000542_easy.wav,combined:bebop_000_(67files),242167.wav,17.66,easy,easy,val,1,0.96363187,1,False,1,False
+hard/val_drone_000542_hard.wav,combined:bebop_000_(67files),94213.wav,2.33,hard,hard,val,1,0.92037195,1,False,1,False
+easy/val_drone_000543_easy.wav,combined:bebop_000_(67files),136458.wav,12.58,easy,easy,val,1,0.9537372,1,False,1,False
+hard/val_drone_000543_hard.wav,combined:bebop_000_(67files),54187.wav,7.03,hard,hard,val,1,0.9893584,1,False,1,False
+easy/val_drone_000544_easy.wav,combined:bebop_000_(67files),70939.wav,17.42,easy,easy,val,1,0.9227613,1,False,1,False
+hard/val_drone_000544_hard.wav,combined:bebop_000_(67files),181597.wav,5.17,hard,hard,val,1,0.9279076,1,False,1,False
+easy/val_drone_000545_easy.wav,combined:bebop_000_(67files),119449.wav,10.54,easy,easy,val,1,0.8802712,1,False,1,False
+hard/val_drone_000545_hard.wav,combined:bebop_000_(67files),170671.wav,7.86,hard,hard,val,1,0.8621188,1,False,1,False
+easy/val_drone_000546_easy.wav,combined:bebop_000_(67files),238015.wav,19.68,easy,easy,val,1,0.97184354,1,False,1,False
+hard/val_drone_000546_hard.wav,combined:bebop_000_(67files),197130.wav,5.32,hard,hard,val,1,0.9773753,1,False,1,False
+easy/val_drone_000547_easy.wav,combined:bebop_000_(67files),197130.wav,14.83,easy,easy,val,1,0.6733587,1,False,1,False
+hard/val_drone_000547_hard.wav,combined:bebop_000_(67files),238015.wav,3.51,hard,hard,val,1,0.6056628,1,False,1,False
+easy/val_drone_000548_easy.wav,combined:bebop_000_(67files),274910.wav,12.29,easy,easy,val,1,0.94090986,1,False,1,False
+hard/val_drone_000548_hard.wav,combined:bebop_000_(67files),170671.wav,5.76,hard,hard,val,1,0.9705469,1,False,1,False

@@ -1,0 +1,39 @@
+{
+  "total_rows": 3888,
+  "split_folder_counts": {
+    "test/drone_clean": 100,
+    "test/easy": 100,
+    "test/hard": 100,
+    "test/noise_clean": 300,
+    "train/drone_clean": 447,
+    "train/easy": 447,
+    "train/hard": 447,
+    "train/noise_clean": 1341,
+    "val/drone_clean": 101,
+    "val/easy": 101,
+    "val/hard": 101,
+    "val/noise_clean": 303
+  },
+  "split_label_counts": {
+    "test/label_0": 300,
+    "test/label_1": 300,
+    "train/label_0": 1341,
+    "train/label_1": 1341,
+    "val/label_0": 303,
+    "val/label_1": 303
+  },
+  "split_drone_sources": {
+    "train": 74,
+    "val": 4,
+    "test": 4
+  },
+  "split_noise_sources": {
+    "train": 333,
+    "val": 17,
+    "test": 17
+  },
+  "unique_drone_sources": 82,
+  "unique_noise_sources": 367,
+  "drone_source_leaks": {},
+  "noise_source_leaks": {}
+}

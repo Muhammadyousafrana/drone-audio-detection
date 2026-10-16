@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 520" role="img" aria-labelledby="title desc">
+  <title id="title">Drone Audio Detection</title>
+  <desc id="desc">A drone silhouette over an audio waveform and sound classification display.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#071525"/>
+      <stop offset="0.56" stop-color="#102c43"/>
+      <stop offset="1" stop-color="#154b55"/>
+    </linearGradient>
+    <linearGradient id="wave" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2dd4bf" stop-opacity="0.15"/>
+      <stop offset="0.5" stop-color="#5eead4"/>
+      <stop offset="1" stop-color="#7dd3fc" stop-opacity="0.3"/>
+    </linearGradient>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
+      <path d="M42 0H0V42" fill="none" stroke="#a5f3fc" stroke-opacity="0.065" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1600" height="520" rx="30" fill="url(#bg)"/>
+  <rect width="1600" height="520" rx="30" fill="url(#grid)"/>
+  <circle cx="1270" cy="235" r="205" fill="#2dd4bf" opacity="0.06"/>
+  <circle cx="1270" cy="235" r="150" fill="none" stroke="#67e8f9" stroke-opacity="0.12"/>
+  <circle cx="1270" cy="235" r="105" fill="none" stroke="#67e8f9" stroke-opacity="0.1"/>
+  <g transform="translate(1270 205)" fill="none" stroke="#99f6e4" stroke-linecap="round" stroke-linejoin="round" filter="url(#glow)">
+    <path d="M-90 0H90M-50 0L-105-58M50 0L105-58M-50 0L-105 58M50 0L105 58" stroke-width="12"/>
+    <path d="M-32-12L0-30 32-12 23 16H-23Z" fill="#2dd4bf" fill-opacity="0.24" stroke-width="5"/>
+    <path d="M-119-66h28m-14-14v28M91-66h28m-14-14v28M-119 66h28m-14-14v28M91 66h28m-14-14v28" stroke-width="5"/>
+    <circle cx="0" cy="-2" r="6" fill="#e0f2fe" stroke="none"/>
+  </g>
+  <path d="M800 382h40l15-24 16 51 18-82 20 111 21-62 17 18h28l17-30 16 49 17-76 19 90 17-42 18 19h35l15-22 17 44 19-71 17 65 18-32h38l17-19 16 44 17-58 19 57 17-30h76" fill="none" stroke="url(#wave)" stroke-width="4" opacity="0.86"/>
+  <path d="M800 382h40l15-24 16 51 18-82 20 111 21-62 17 18h28l17-30 16 49 17-76 19 90 17-42 18 19h35l15-22 17 44 19-71 17 65 18-32h38l17-19 16 44 17-58 19 57 17-30h76" fill="none" stroke="#99f6e4" stroke-width="1.5" opacity="0.6"/>
+  <text x="104" y="198" fill="#99f6e4" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="5">AUDIO INTELLIGENCE / 01</text>
+  <text x="100" y="280" fill="#f0fdfa" font-family="Segoe UI, Arial, sans-serif" font-size="60" font-weight="700">Drone Audio</text>
+  <text x="100" y="348" fill="#f0fdfa" font-family="Segoe UI, Arial, sans-serif" font-size="60" font-weight="700">Detection</text>
+  <text x="105" y="414" fill="#bae6fd" font-family="Segoe UI, Arial, sans-serif" font-size="22">Source-aware data · YAMNet embeddings · TensorFlow</text>
+  <rect x="105" y="448" width="200" height="3" rx="2" fill="#2dd4bf" opacity="0.8"/>
+</svg>
